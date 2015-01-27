@@ -1,0 +1,32 @@
+body {
+  background-color: #F5F5DC;
+}
+
+sup {
+  font-size: 24px;
+  text-shadow: black 0.1em 0.1em 0.1em;
+}
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+}
+
+.name {
+  font-family: Impact, Charcoal, sans-serif;
+  font-size: 48px;
+  color: #B8B894;
+  text-align: center;
+  text-shadow: black 0.1em 0.1em 0.1em;
+  letter-spacing: 2px;
+}
+
+.options {
+  font-family: Impact, Charcoal, sans-serif;
+  font-size: 18px;
+  color: #CDCDB4;
+  text-align: center;
+  font-style: italic;
+  text-shadow: black 0.1em 0.1em 0.1em
+}
