@@ -4,7 +4,7 @@ body {
 
 sup {
   font-size: 24px;
-  text-shadow: black 0.1em 0.1em 0.1em;
+  text-shadow: black 1px 1px 1px;
 }
 
 .center {
@@ -18,7 +18,7 @@ sup {
   font-size: 48px;
   color: #B8B894;
   text-align: center;
-  text-shadow: black 0.1em 0.1em 0.1em;
+  text-shadow: black 2px 2px 2px;
   letter-spacing: 2px;
 }
 
@@ -27,7 +27,7 @@ sup {
   font-size: 18px;
   color: #CDCDB4;
   text-align: center;
-  text-shadow: black 0.1em 0.1em 0.1em;
+  text-shadow: black 1px 1px 1px;
   letter-spacing: 2px;
 }
 
