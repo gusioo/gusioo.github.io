@@ -56,3 +56,12 @@ h2 {
   font-size: 14px;
   font-style: italic;
 }
+
+img {
+  float: right;
+  position: relative;
+  right: 100px;
+  top: -45px;
+  height: 200px;
+  width: 200px;
+}
