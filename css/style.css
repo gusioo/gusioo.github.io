@@ -49,3 +49,8 @@ h1 {
 h2 {
   color: blue;
 }
+
+.footer {
+  font-size: 14px;
+  font-style: italic;
+}
