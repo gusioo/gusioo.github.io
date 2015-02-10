@@ -44,6 +44,8 @@ a:visited {
 /* CV */
 h1 {
   text-align: center;
+  color: blue;
+  font-style: italic;
 }
 
 h2 {
