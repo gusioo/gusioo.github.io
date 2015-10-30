@@ -1,3 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>gusioo.io</title><link href="http://gusioo.github.io/" rel="alternate"></link><link href="http://gusioo.github.io/feeds/jacek-feflinski.atom.xml" rel="self"></link><id>http://gusioo.github.io/</id><updated>2015-04-17T00:00:00+02:00</updated><entry><title>Hello World</title><link href="http://gusioo.github.io/hello-world.html" rel="alternate"></link><updated>2015-04-17T00:00:00+02:00</updated><author><name>Jacek Fefliński</name></author><id>tag:gusioo.github.io,2015-04-17:hello-world.html</id><summary type="html">&lt;h3&gt;gusioo.io&lt;/h3&gt;
-&lt;p&gt;Hello World!&lt;/p&gt;</summary></entry></feed>
