@@ -44,6 +44,11 @@ body {
   }
 }
 
+img[src$="centerme"] {
+  display:block;
+  margin: 0 auto;
+}
+
 .entry-content {
   padding:15px 0;
   line-height:1.8;
