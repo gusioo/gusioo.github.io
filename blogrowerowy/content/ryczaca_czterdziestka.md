@@ -17,6 +17,6 @@ Na zakończenie - nie, nie ślad GPS, ale zdjęcie:
 
 ![alt text][logo]
 
-[logo]: http://gusioo.github.io/images/r_40_thumb.jpg "Logo Title Text 2"
+[logo]: http://gusioo.github.io/images/r_40_thumb.jpg?style=centerme "Logo Title Text 2"
 
 Roch pozdrawia Czytelników.
