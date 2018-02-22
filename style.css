@@ -20,3 +20,7 @@ div img {
     bottom:0;
     margin:auto;
 }
+
+.img {
+    display: inline-block;
+}
