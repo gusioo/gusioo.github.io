@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "pl.pedalydwa.dev.fever",
+    "sha256_cert_fingerprints":
+    ["C4:6E:67:83:8E:0B:4B:61:29:AF:81:AD:B6:1A:CA:6F:B8:5A:BD:FB:00:67:DE:CF:A8:E1:4B:C6:CD:99:AE:AA"]
+  }
+}]
