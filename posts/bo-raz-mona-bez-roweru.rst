@@ -1,0 +1,8 @@
+Bo raz można bez roweru
+#######################
+:date: 2008-05-03 20:42
+:author: Roch Brada
+:slug: bo-raz-mona-bez-roweru
+:status: published
+
+Długo oczekiwane majowe spotkanie doszło do skutku. W dzisiejszej notce roweru będzie jak na lekarstwo, ale za to Roch podzieli się swoimi przemyśleniami, które snuł jadąc do Lublińca. Zastanawiał się bowiem jakby to było gdyby Roch miał inną miłość, a nie tylko rower. Załóżmy, że Roch jest żonaty. Pierwszym obowiązkiem żonatego Rocha byłoby podawania żonie śniadania do łóżka przynajmniej raz w tygodniu. Niby nic strasznego, ale Roch nie potrafi gotować, a Vifon na śniadanie jest trochę nie stosowny. Sprawa kolejna - zakupy z małżonką. Konieczna konieczność, którą dostaje się wraz z aktem ślubu. Nie ma nic gorszego jak niezdecydowana żona w sklepie z ubraniami. Pół biedy jak tylko nie wie, czy kupić różową, czy turkusową, ale pytanie typu *"jak wyglądam"* skierowane do znudzonego Roch mogłoby się odbić cichymi dniami ponieważ odpowiedź *"chu*owo"* może rozwścieczyć każdego. Nawet żonę. Kolejna konieczność to staranie się o powiększenie rodziny. Niby najprzyjemniejszy obowiązek, ale perspektywa pieluch, wózków, spacerów jest najlepszym środkiem antykoncepcyjnym. Dlaczego dzieci nie mogą od razu jeździć na rowerze? To znacznie ułatwiłoby życie. I gdzie tu miejsce na rower? W tym momencie Roch doszedł do wniosku, że jeśli szukać żony to tylko takiej co to ma jedną parę spodni, parę butów i wypasiony rower na XTR. Zastanawiacie się, Czcigodni, gdzie opis przygód Rocha? To zostanie słodką tajemnicą Rocha i "Starej znajomej", z którą się spotkał. Zadeklarowany jako singiel Roch pozdrawia Czytelników. P.S: Oczywiście post dzisiejszy należy traktować jako jeden wielki żart.
